@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Technologie = () => {
-    return <div>Technologie Seite</div>;
+const Willkommen: React.FC = () => {
+    return <div>Willkommen Seite</div>;
 };
 
-export default Technologie;
+export default Willkommen;
